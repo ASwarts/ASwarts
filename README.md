@@ -1,4 +1,4 @@
-Andrew Swarts — Software Engineering Student  
+🌐 Andrew Swarts — Software Engineering Student  
   
 I’m a Computer Science student focusing on Software Engineering, currently completing my bachelor’s degree.  
 In January, I’m also beginning my Cybersecurity Certificate at SNHU, expanding my skills into secure systems, defensive practices, and modern cybersecurity fundamentals.  
